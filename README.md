@@ -1,7 +1,7 @@
 ### Hi there I'm gwangwoo 👋
 
 [![naverblog](https://img.shields.io/badge/naverblog-badge?style=flat-square&logo=Blogger&logoColor=white)](http://blog.naver.com/rhkddn5161)
-[![contact](https://img.shields.io/badge/Hyundai?style=flat-square&logo=Hyundai&logoColor=white&color=blue&link=mailto:gguu@hyundai-ngv.com)](mailto:gguu@hyundai-ngv.com)
+[![contact](https://img.shields.io/badge/Hyundai-badge?style=flat-square&logo=Hyundai&logoColor=white&color=blue&link=mailto:gguu@hyundai-ngv.com)](mailto:gguu@hyundai-ngv.com)
 
 **Languages and Tools:**  
 
