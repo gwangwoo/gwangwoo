@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hello there 👋
 
 <!--
 **gwangwoo/gwangwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![{}'s github stats](https://github-readme-stats.vercel.app/api?username=gwangwoo&show_icons=true&title_color=f7f307&icon_color=02b062&text_color=ffffff&bg_color=180175)
+![{}'s github stats](https://github-readme-stats.vercel.app/api?username=gwangwoo&show_icons=true&&theme=dracula)
