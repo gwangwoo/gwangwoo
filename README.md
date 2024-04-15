@@ -16,4 +16,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwangwoo&layout=compact&hide=csharp)
 
 ### 🧑‍💻 I'm solving problems using algorithms.
-[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=gguu)](https://solved.ac/{})
+[![SolvedAC tier](https://mazassumnida.wtf/api/v2/generate_badge?boj=gguu)](https://solved.ac/{})
